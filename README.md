@@ -1,1 +1,12 @@
-Sou Leonardo Medicis, estudante de Ciência da Computação na Universidade Católica do Recife, com experiência em estágios desde o início de minha jornada acadêmica em 2023. Atualmente, estou em frequente contato no desenvolvimento Front-end, também tenho breve conhecimento em Back-end, após ter iniciado como programador Júnior em meu primeiro estágio. Além de minha afinidade pela codificação, estou sempre em busca de oportunidades para adquirir mais conhecimento e aprimorar minhas habilidades, especialmente na área de vendas, onde posso aplicar minhas habilidades de comunicação e relacionamento humano. Estou entusiasmado em explorar e contribuir para o cruzamento entre tecnologia e interações humanas.
+Estudante de Engenharia/Ciência de dados e inteligência artificial, 4º período na instituição IBMEC Faria
+Lima, buscando oportunidade de estágio, para aplicar conhecimentos da área de tecnologia e finanças e
+aprimorar minhas habilidades em ambiente profissional e desafiador, possuo domínio em linguagens de
+programação como Python, VBA(Excel em geral, certificado WALL STREET PREP),PowerBI e SQL, e
+excelente trabalho em equipe. Possuo alta compreensão em estatística e finanças corporativas, além de
+proatividade para assumir diferentes desafios. Familiaridade com ferramentas de dashboards e
+curiosidade intelectual para inovação destacam-se como diferenciais no mercado financeiro e tenho alto
+domínio da língua inglesa. Acredito que consigo somar muito em qualquer ambiente, não pelo fato de
+possuir vastos conhecimentos técnicos, mas sim porque possuo uma grande facilidade em me comunicar,
+sou muito bom em criar relacionamentos interpessoais e sempre consigo promover a cultura desejada
+dentro dos ambientes de uma forma leve.
+
